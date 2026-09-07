@@ -1,0 +1,10 @@
+{
+  "sentence": "Tomorrow, I'm going to school.",
+  "flagged_signs": [
+    {
+      "gloss": "TOMORROW",
+      "confidence": 0.62,
+      "reason": "Confidence below the 0.7 threshold; sign may have been misread or ambiguous."
+    }
+  ]
+}
